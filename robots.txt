@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://feidooziez.vreeken.dev/sitemap.xml
